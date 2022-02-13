@@ -1,13 +1,13 @@
 {
-  "main.css": "/react/static/css/main.c164344e.chunk.css",
-  "main.js": "/react/static/js/main.83865d37.chunk.js",
-  "main.js.map": "/react/static/js/main.83865d37.chunk.js.map",
-  "runtime~main.js": "/react/static/js/runtime~main.bb50a20d.js",
-  "runtime~main.js.map": "/react/static/js/runtime~main.bb50a20d.js.map",
-  "static/js/2.de6ff777.chunk.js": "/react/static/js/2.de6ff777.chunk.js",
-  "static/js/2.de6ff777.chunk.js.map": "/react/static/js/2.de6ff777.chunk.js.map",
-  "index.html": "/react/index.html",
-  "precache-manifest.de5445129095b385a7508cc8c7edc80b.js": "/react/precache-manifest.de5445129095b385a7508cc8c7edc80b.js",
-  "service-worker.js": "/react/service-worker.js",
-  "static/css/main.c164344e.chunk.css.map": "/react/static/css/main.c164344e.chunk.css.map"
+  "main.css": "/Feb13Exam/static/css/main.c164344e.chunk.css",
+  "main.js": "/Feb13Exam/static/js/main.3a822b54.chunk.js",
+  "main.js.map": "/Feb13Exam/static/js/main.3a822b54.chunk.js.map",
+  "runtime~main.js": "/Feb13Exam/static/js/runtime~main.c2474a12.js",
+  "runtime~main.js.map": "/Feb13Exam/static/js/runtime~main.c2474a12.js.map",
+  "static/js/2.de6ff777.chunk.js": "/Feb13Exam/static/js/2.de6ff777.chunk.js",
+  "static/js/2.de6ff777.chunk.js.map": "/Feb13Exam/static/js/2.de6ff777.chunk.js.map",
+  "index.html": "/Feb13Exam/index.html",
+  "precache-manifest.49569eadc116e2c6c3367679578e5964.js": "/Feb13Exam/precache-manifest.49569eadc116e2c6c3367679578e5964.js",
+  "service-worker.js": "/Feb13Exam/service-worker.js",
+  "static/css/main.c164344e.chunk.css.map": "/Feb13Exam/static/css/main.c164344e.chunk.css.map"
 }
